@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  font-family: arial;
+}
+p {
+  margin-left: 50px;
+}
+ul {
+  margin-left: 50px;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+.headerMain {
+  padding: 47px;
+  margin-bottom: 100px;
+}
+.header {
+  width: 70%;
+}
+.headerLeft {
+  margin-left: 200px;
+  width: 224px;
+  height: 224px;
+  float: left;
+  vertical-align: top;
+}
+.headerRight {
+  margin-right: 200px;
+  width: 168px;
+  height: 224px;
+  float: right;
+  vertical-align: top;
+}
+#interests {
+
+}
+#skills {
+
+}
+#experience {
+  
+}
+.footer {
+  text-align: center;
+  padding-bottom: 25px;
+}
+/*
+for id use # before the id
+
+
+*/
